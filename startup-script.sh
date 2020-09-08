@@ -4,7 +4,6 @@ echo "Installing curl, git, vim and unzip"
 echo "###################################"
 apt-get update
 apt-get install curl git vim unzip -y
-
 echo "############################################"
 echo "Installing AWS CLI, Terraform and Terragrunt"
 echo "############################################"
